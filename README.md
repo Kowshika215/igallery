@@ -163,13 +163,9 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![Screenshot 2025-05-08 090217](https://github.com/user-attachments/assets/22bf7ba4-f111-4b4d-ae67-ba38932f4d47)
-
 ![Screenshot 2025-05-08 090225](https://github.com/user-attachments/assets/45468482-ab44-487c-9b1e-72f4ad92080c)
-
 ![Screenshot 2025-05-08 090233](https://github.com/user-attachments/assets/2a4c6bd8-c2bf-4c4d-ab5e-faae277933bd)
-
 ![Screenshot 2025-05-08 090244](https://github.com/user-attachments/assets/632f3824-723b-4c03-9d96-f295289973fd)
-
 ![Screenshot 2025-05-08 090251](https://github.com/user-attachments/assets/17d6da02-129a-4465-b82a-116efe369bbc)
 
 ## RESULT:
